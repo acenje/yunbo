@@ -1,7 +1,5 @@
 Release Notes / IntelOne Mono
 2023-05-01
-
-
 Family name
 	IntelOne Mono
 
